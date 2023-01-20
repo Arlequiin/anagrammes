@@ -1,2 +1,2 @@
-# anagrammes
-Tous les anagrammes de la langue française
+# Anagrammes
+Ce script permet de trouver tous les anagrammes de la langue française
